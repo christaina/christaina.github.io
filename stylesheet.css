@@ -14,9 +14,8 @@ body {
 #main {
   font-family: Arial;
   color:#f8eee7;
-  margin-top: 0px;
   font-size:80%;
-  margin-left: 210px;
+  margin-left: 190px;
 }
 
 
@@ -66,8 +65,5 @@ h2 {
     margin-left: 10px;
 }
 
-hr{
-	border-top: 1px solid #fff;
-}
 
 #navbar h1 { color: #49274a;}
