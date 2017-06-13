@@ -1,5 +1,5 @@
 body {
-    background-color: #94618e;
+    background-color: #94618E;
     font-family: Arial;
     color:#f4decb;
     margin-top: 50px
@@ -15,7 +15,7 @@ body {
   font-family: Arial;
   color:#f8eee7;
   font-size:80%;
-  margin-left: 190px;
+  margin-left: 200px;
 }
 
 
@@ -25,11 +25,11 @@ a {
 /*a:visited {color: #616536}
 a:active {color: #1B1112}*/
 
-h1 {font-family: Arial; font-size:100%}
+h1 {font-size:100%}
 
 
 h2 {
-  color: #f4decb;
+  color: #FFA7F5;
     font-family: Arial;
     font-size: 150%;
     margin-top:0px;
@@ -66,4 +66,4 @@ h2 {
 }
 
 
-#navbar h1 { color: #49274a;}
+#navbar h1 { color: #CC86C4;}
