@@ -1,8 +1,8 @@
 body {
-    background-color: #94618E;
+    background-color: #2E7F5D;
     font-family: Arial;
-    color:#f4decb;
-    margin-top: 50px
+    margin-top: 50px;
+    color: #fff
 }
 
 #wrapper {
@@ -12,15 +12,13 @@ body {
 }
 
 #main {
-  font-family: Arial;
-  color:#f8eee7;
   font-size:80%;
   margin-left: 200px;
 }
 
 
 a {
-    color: #f4decb;
+    color: #fff;
 }
 /*a:visited {color: #616536}
 a:active {color: #1B1112}*/
@@ -29,11 +27,11 @@ h1 {font-size:100%}
 
 
 h2 {
-  color: #FFA7F5;
+  color: #10CC7D;
     font-family: Arial;
     font-size: 150%;
-    margin-top:0px;
-  margin-bottom:20px;
+    margin-top:-5px;
+    margin-bottom:20px;
 }
 
 
@@ -53,7 +51,7 @@ h2 {
     height: 100%;
     display: block;
     position: absolute;
-    background: #94618e;
+    background: #2E7F5D;
     opacity: 0.7;
 }
 
@@ -65,5 +63,5 @@ h2 {
     margin-left: 10px;
 }
 
-
-#navbar h1 { color: #CC86C4;}
+hr {color:#10CC7D}
+#navbar h1 { color: #14FF9C;}
