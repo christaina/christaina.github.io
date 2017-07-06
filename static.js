@@ -10,7 +10,7 @@ document.getElementById("navbar").innerHTML = `
   <h1 >Links </h1>
   <a href="main.html">Home</a><br>
   <a href="resume.pdf" target='_blank'>Resume</a><br>
-  <a href="projects.html">Projects</a><br>
+  <!-- <a href="projects.html">Projects</a><br> -->
 
   <h1 >Social Media</h1>
   <a  href="https://www.linkedin.com/in/christina-bogdan-b5598069/" target='_blank'>LinkedIn</a><br>
