@@ -8,7 +8,7 @@ document.getElementById("navbar").innerHTML = `
     christina.bogdan@gmail.com<br>
   <br>
   <h1 >Links </h1>
-  <a href="resume.pdf">Resume</a><br>
+  <a href="https://christaina.github.io/resume/CV.pdf">Resume</a><br>
 
   <h1 >Social Media</h1>
   <a  href="https://www.linkedin.com/in/christina-bogdan-b5598069/">LinkedIn</a><br>
