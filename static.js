@@ -9,7 +9,7 @@ document.getElementById("navbar").innerHTML = `
   <br>
   <h1 >Links </h1>
   <a href="main.html">Home</a><br>
-  <a href="resume.pdf" target='_blank'>Resume</a><br>
+  <a href="https://christaina.github.io/resume/CV.pdf" target='_blank'>Resume</a><br>
   <!-- <a href="projects.html">Projects</a><br> -->
 
   <h1 >Social Media</h1>
