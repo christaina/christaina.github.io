@@ -14,8 +14,7 @@ document.getElementById("navbar").innerHTML = `
 
   <h1 >Social Media</h1>
   <a  href="https://www.linkedin.com/in/christina-bogdan-b5598069/" target='_blank'>LinkedIn</a><br>
-  <a  href="https://github.com/christaina" target='_blank'>GitHub</a><br>
-  <a href="https://twitter.com/xtinaBog" target='_blank'>Twitter</a><br>`;
+  <a  href="https://github.com/christaina" target='_blank'>GitHub</a><br>`;
 
 document.getElementById("heading").innerHTML = `
 <h1>Christina Bogdan</h1>
